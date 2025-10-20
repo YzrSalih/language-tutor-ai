@@ -1,4 +1,6 @@
 # Language Tutor AI
+<img width="1680" height="902" alt="image" src="https://github.com/user-attachments/assets/cfd90c3f-f4dd-41ab-863e-7d618b0d9eb9" />
+
 
 AI destekli dil öğrenme platformu. Python FastAPI backend ve React TypeScript frontend kullanılarak geliştirilmiştir.
 
